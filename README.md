@@ -12,6 +12,7 @@ Login &amp; Register, CRUD
 ---
 
 ## Demo Project
+https://github.com/GilarSumilar/CI4-basic/assets/115634466/029a156e-f6ff-46c7-aad4-b602ff61037a
 
 
 ## Laporan Proyek: Aplikasi Android untuk Login, Register, dan CRUD Data Pengguna
